@@ -1,7 +1,6 @@
 name: physicsdemos
 channels:
  - conda-forge
- - nodefaults
 dependencies:
  - bqplot
  - ipyvolume
