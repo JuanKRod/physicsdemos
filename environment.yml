@@ -1,8 +1,10 @@
 name: physicsdemos
 channels:
  - conda-forge
+ - damianavila82
 dependencies:
  - bqplot
  - ipyvolume
  - scipy
  - ipywidgets>=6.0.0
+ - rise
