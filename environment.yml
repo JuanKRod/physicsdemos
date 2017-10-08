@@ -1,0 +1,9 @@
+name: physicsdemos
+channels:
+ - conda-forge
+ - nodefaults
+dependencies:
+ - bqplot
+ - ipyvolume
+ - scipy
+ - ipywidgets>=6.0.0
